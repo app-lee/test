@@ -7,3 +7,7 @@ body {
   border: 1px solid red;
   background-color: yellow;
 }
+button {
+    background-color: blue;
+    color: white;
+}
